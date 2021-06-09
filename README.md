@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/kashyapnirmal">
   <img align="left" alt="Hackerrank" width="22px" src="https://github.com/Kashyap-Nirmal/kashyap-nirmal/blob/main/svg%20icons/hackerrank.png" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/kashyapnirmal18/profile">
+<a href="https://auth.geeksforgeeks.org/user/kashyapnirmal09/profile">
   <img align="left" alt="GeeksForGeeks" width="22px" src="https://github.com/Kashyap-Nirmal/kashyap-nirmal/blob/main/svg%20icons/geeksforgeeks.png" />  
 </a>
 </p>
