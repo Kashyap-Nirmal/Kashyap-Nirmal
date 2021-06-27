@@ -1,6 +1,10 @@
 <!--
+************************************************************************
+    Hi there 😊
+	THANKS FOR LOOKING AT THE SOURCE CODE 
+    DO DROP A MESSAGE! WOULD LOVE TO CHAT :)
+************************************************************************
 **Kashyap-Nirmal/Kashyap-Nirmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -36,6 +40,10 @@ Here are some ideas to get you started:
 <a href="https://auth.geeksforgeeks.org/user/kashyapnirmal09/profile">
   <img align="left" alt="GeeksForGeeks" width="22px" src="https://github.com/Kashyap-Nirmal/kashyap-nirmal/blob/main/svg%20icons/geeksforgeeks.png" />  
 </a>
+<a href="https://kashyap-nirmal.github.io/">
+  <img align="left" alt="Website" width="22px" src="https://github.com/Kashyap-Nirmal/kashyap-nirmal/blob/main/svg%20icons/website.png" />  
+</a>
+
 </p>
 
 <br><br>
