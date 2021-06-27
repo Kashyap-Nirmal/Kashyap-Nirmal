@@ -36,11 +36,9 @@ Here are some ideas to get you started:
 <a href="https://auth.geeksforgeeks.org/user/kashyapnirmal09/profile">
   <img align="left" alt="GeeksForGeeks" width="22px" src="https://github.com/Kashyap-Nirmal/kashyap-nirmal/blob/main/svg%20icons/geeksforgeeks.png" />  
 </a>
-<br>
-  DO DROP A MESSAGE! WOULD LOVE TO CHAT :)
-<br>
 </p>
-
+<br><br>
+  DO DROP A MESSAGE! WOULD LOVE TO CHAT :)
 <br><br>
 
 <h3 align="left">Languages and Tools:</h3>
