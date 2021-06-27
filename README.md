@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 </a>
 
 </p>
-
+<br><br>
+  DO DROP A MESSAGE! WOULD LOVE TO CHAT :)
 <br><br>
 
 <h3 align="left">Languages and Tools:</h3>
