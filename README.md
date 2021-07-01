@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 - **C++**
 - **C**
 
-- **Beginner :** Native Android, Python, Advance Java, React Native, ASP.Net and ADO.Net, C#
+- **Familiar with :** Native Android, Python, Advance Java, React Native, ASP.Net and ADO.Net, C#
 
 <br>
 
