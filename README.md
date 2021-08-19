@@ -62,6 +62,6 @@ Here are some ideas to get you started:
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashyap-nirmal&show_icons=true&locale=en&langs_count=3" alt="kashyapnirmal" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashyap-nirmal&show_icons=true&locale=en&hide=prs,issues,contribs&count_private=true" alt="kashyapnirmal" /></p><br>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashyap-nirmal&show_icons=true&locale=en&hide=prs,issues,contribs&count_private=true" alt="kashyapnirmal" /></p><br>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashyap-nirmal&border_color=#000000&border_radius=5" alt="kashyapnirmal" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashyap-nirmal&border_color=#000000&border_radius=5" alt="kashyapnirmal" /></p>-->
