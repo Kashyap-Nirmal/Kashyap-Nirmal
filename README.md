@@ -43,7 +43,10 @@ Here are some ideas to get you started:
 <a href="https://kashyap-nirmal.github.io/">
   <img align="left" alt="Website" width="22px" src="https://github.com/Kashyap-Nirmal/kashyap-nirmal/blob/main/svg%20icons/website.png" />  
 </a>
-
+<a href="https://leetcode.com/kashyap_nirmal/">
+  <img align="left" alt="Leet Code" width="22px" src="https://github.com/Kashyap-Nirmal/kashyap-nirmal/blob/main/svg%20icons/leetcode.png" />  
+</a>
+	
 </p>
 <br><br>
   DO DROP A MESSAGE! WOULD LOVE TO CHAT :)
