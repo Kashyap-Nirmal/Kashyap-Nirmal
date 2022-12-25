@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hello there 😊👋</h1>
-<h3 align="center">Software developer from India</h3>
+<h1 align="center">I am Kashyap, Blockchain Developer 👨‍💻</h1>
 
 ### Glad to see you here! 😊
 
@@ -26,7 +25,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashyap-nirmal&label=Profile%20views&color=0e75b6&style=flat" alt="Kashyap Nirmal" /> </p>
 
-- 🔭 I’m currently working on Java, C++ 
+- 🔭 I have worked with Java, C++ 
+- 🌱 I’m currently learning Go, Cosmos-SDK
 - 📫 How to reach me **kashyapnirmal18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 - **C++**
 - **C**
 
-- **Familiar with :** Native Android, Python, Advance Java, React Native, ASP.Net and ADO.Net, C#
+- **Familiar with :** Go, Native Android, Python, Advance Java, React Native, ASP.Net and ADO.Net, C#
 
 <br>
 
