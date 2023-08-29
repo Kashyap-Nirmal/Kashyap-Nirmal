@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashyap-nirmal&label=Profile%20views&color=0e75b6&style=flat" alt="Kashyap Nirmal" /> </p>
 
 - 🔭 I have worked with Java, C++ 
-- 🌱 I’m currently learning Go, Cosmos-SDK
+- 🌱 I’m currently working on *Go* and *Cosmos-SDK*. I am learning *Rust* and *Cosmswasm*
 - 📫 How to reach me **kashyapnirmal18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
