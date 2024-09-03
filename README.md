@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashyap-nirmal&label=Profile%20views&color=0e75b6&style=flat" alt="Kashyap Nirmal" /> </p>
 
 - 🔭 I have worked with Java, C++ 
-- 🌱 I’m currently working on *Go* and *Cosmos-SDK*. I am learning *Rust* and *Cosmswasm*
+- 🌱 I have worked on *Go* and *Cosmos-SDK*. I have also worked on Android (Java). I am learning *Rust*.
 - 📫 How to reach me **kashyapnirmal18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -67,6 +67,9 @@ Here are some ideas to get you started:
 <br>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashyap-nirmal&show_icons=true&locale=en&langs_count=3" alt="kashyapnirmal" /></p><br>
+
+### :fire: My Leetcode Stats : 
+![](https://leetcard.jacoblin.cool/kashyap_nirmal?ext=heatmap)
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashyap-nirmal&show_icons=true&locale=en&hide=prs,issues,contribs&count_private=true" alt="kashyapnirmal" /></p><br>-->
 
