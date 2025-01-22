@@ -84,6 +84,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashyap-nirmal&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
+<p>
+	
+  <img src="https://streak-stats.demolab.com/?user=Kashyap-Nirmal" alt="GitHub streak stats" />	
+</p>
+
 ---
 
 <p align="center">
